@@ -42,7 +42,6 @@ class Banner extends BaseController
                 'errorCode' => 40000
             ]);
         }
-        return 'haha';
         return $banner;
     }
 }
