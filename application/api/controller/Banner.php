@@ -43,5 +43,6 @@ class Banner extends BaseController
             ]);
         }
         return $banner;
+
     }
 }
